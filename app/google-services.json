@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "316205285363",
+    "firebase_url": "https://metodmtsk.firebaseio.com",
+    "project_id": "metodmtsk",
+    "storage_bucket": "metodmtsk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316205285363:android:d070ac143d0b5404",
+        "android_client_info": {
+          "package_name": "com.metodmtsk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpKN6_xWZLtnBlbiuWVW8smI5VlGFX_lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316205285363-so7drh7etvp18thcijr1l218esk5a13b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
